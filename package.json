@@ -1,0 +1,22 @@
+{
+  "name": "ejercicio-1",
+  "version": "1.0.0",
+  "description": "Practica 1 de ejercicio de mineria de datos",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "mineria",
+    "practica",
+    "uag",
+    "xls",
+    "npm"
+  ],
+  "author": "@Gosh_",
+  "license": "ISC",
+  "dependencies": {
+    "csvtojson": "^0.4.2",
+    "json2csv": "^2.9.0"
+  }
+}
